@@ -1,4 +1,4 @@
-👋 Hi there! I'm Sweatha (Deepika Radhakrishnan)
+👋 Hi there! I'm (Deepika Radhakrishnan)
 
 🌐 Passionate Web Developer | Tech Enthusiast
 
