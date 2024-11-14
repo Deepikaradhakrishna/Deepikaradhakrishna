@@ -1,4 +1,5 @@
 👋 Hi there! I'm Sweatha (Deepika Radhakrishnan)
+
 🌐 Passionate Web Developer | Tech Enthusiast
 
 💻 I enjoy building responsive and user-friendly websites. With a strong foundation in frontend development, I’ve completed projects that highlight my skills in HTML, CSS, JavaScript, and React.
@@ -23,7 +24,7 @@ Linux (Red Hat).
 
 💼 Open to collaboration and eager to learn from experienced developers. Let's connect and create something amazing together!
 
-- 📫 How to reach me sweathadeepi0132gmail.com
+📫 How to reach me sweathadeepi0132gmail.com
   
 
 <!---
