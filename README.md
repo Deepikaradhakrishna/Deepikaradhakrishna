@@ -4,7 +4,8 @@
 
 💻 I enjoy building responsive and user-friendly websites. With a strong foundation in frontend development, I’ve completed projects that highlight my skills in HTML, CSS, JavaScript, and React.
 
-🎓 **Academic Project:** Joystick-Guided Smart Trolley System
+🎓 **Academic Project:** Joystick-Guided Smart Trolley System.
+
     **Role:** Hardware & Software Developer
 
 **🚀 Skills:**
@@ -18,9 +19,9 @@
 
 📚 **Courses:**
 
-Web Development.
+* Web Development.
 
-Linux (Red Hat).
+* Linux (Red Hat).
 
 💼 Open to collaboration and eager to learn from experienced developers. Let's connect and create something amazing together!
 
