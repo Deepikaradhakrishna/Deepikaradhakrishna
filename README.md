@@ -25,7 +25,7 @@
 
 💼 Open to collaboration and eager to learn from experienced developers. Let's connect and create something amazing together!
 
-📫 How to reach me sweathadeepi0132gmail.com
+📫 How to reach me sweathadeepi013@gmail.com
   
 
 <!---
