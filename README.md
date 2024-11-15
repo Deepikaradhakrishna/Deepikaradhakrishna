@@ -13,7 +13,7 @@ Hi there! **I'm (Deepika Radhakrishnan)**
 - Linux (Red Hat).
 
 **Developer Tools:** 
-- Visual Studio Code<img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
+- Visual Studio Code.
 <br />
 - 📚 **Courses:**
 
@@ -30,7 +30,8 @@ Hi there! **I'm (Deepika Radhakrishnan)**
    <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
-   <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
    
   
 
