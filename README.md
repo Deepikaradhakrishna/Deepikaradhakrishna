@@ -1,10 +1,13 @@
 Hi there! **I'm (Deepika Radhakrishnan)**
-
+<img align="right" width="370" height="290" src="![InShot_20241017_154906510](https://github.com/user-attachments/assets/990f24c2-50cd-4457-b6ec-e2f87a6c3145)"
+- Here's my [Portfolio](https://deepika-05.neocities.org/website/)
 - 🌐 Passionate Web Developer | Tech Enthusiast
 
 - 💻 I enjoy building responsive and user-friendly websites. With a strong foundation in frontend development.
 
-- 🎓 **Academic Project:** Joystick-Guided Smart Trolley System.
+- 🎓 **Project:**
+-  (Joystick-Guided Smart Trolley System) | which helps shopping easier.
+-  (Website- Lakeside Luxe)  | 
 
 **🚀 Skills:**
 
@@ -15,7 +18,7 @@ Hi there! **I'm (Deepika Radhakrishnan)**
 **Developer Tools:** 
 - Visual Studio Code.
 <br />
-- 📚 ## Courses:
+ **Courses:**
 
 * Web Development.
 
