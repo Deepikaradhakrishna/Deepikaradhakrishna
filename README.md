@@ -8,18 +8,12 @@ Hi there! **I'm (Deepika Radhakrishnan)**
 
 **🚀 Skills:**
 
- **Frontend:**
- - HTML
- - CSS
- - Bootstrap(CSS)
- - MongoDB(Basics).
-
 **Tools:** 
 - Version control.
 - Linux (Red Hat).
 
 **Developer Tools:** 
-- Visual Studio Code
+- Visual Studio Code<img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
 <br />
 - 📚 **Courses:**
 
@@ -30,6 +24,14 @@ Hi there! **I'm (Deepika Radhakrishnan)**
 - 💼 Open to collaboration and eager to learn from experienced developers. Let's connect and create something amazing together!
 
 - 📫 How to reach me sweathadeepi013@gmail.com
+  <br />
+  ### I Code in
+   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
+   <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
+   
   
 
 <!---
