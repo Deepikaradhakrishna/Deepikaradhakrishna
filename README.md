@@ -1,4 +1,4 @@
-##Hi there! I'm (Deepika Radhakrishnan)##
+Hi there! **I'm (Deepika Radhakrishnan)**
 
 - 🌐 Passionate Web Developer | Tech Enthusiast
 
@@ -7,7 +7,8 @@
 - 🎓 **Academic Project:** Joystick-Guided Smart Trolley System.
 
 **🚀 Skills:**
-##Frontend:##
+
+<br **Frontend:**
  - HTML
  - CSS
  - Bootstrap(CSS)
