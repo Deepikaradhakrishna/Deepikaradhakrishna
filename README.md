@@ -15,7 +15,7 @@ Hi there! **I'm (Deepika Radhakrishnan)**
 **Developer Tools:** 
 - Visual Studio Code.
 <br />
-- 📚 ****Courses:****
+- 📚 **Courses:**
 
 * Web Development.
 
