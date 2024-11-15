@@ -1,34 +1,34 @@
-##Hi there! I'm (Deepika Radhakrishnan)
+##Hi there! I'm (Deepika Radhakrishnan)##
 
--🌐 Passionate Web Developer | Tech Enthusiast
+- 🌐 Passionate Web Developer | Tech Enthusiast
 
--💻 I enjoy building responsive and user-friendly websites. With a strong foundation in frontend development.
+- 💻 I enjoy building responsive and user-friendly websites. With a strong foundation in frontend development.
 
--🎓 **Academic Project:** Joystick-Guided Smart Trolley System.
+- 🎓 **Academic Project:** Joystick-Guided Smart Trolley System.
 
 **🚀 Skills:**
 ##Frontend:##
- -HTML
- -CSS
- -Bootstrap(CSS)
- -MongoDB(Basics).
+ - HTML
+ - CSS
+ - Bootstrap(CSS)
+ - MongoDB(Basics).
 
 **Tools:** 
--Version control.
--Linux (Red Hat).
+- Version control.
+- Linux (Red Hat).
 
 **Developer Tools:** 
--Visual Studio Code
+- Visual Studio Code
 
--📚 **Courses:**
+- 📚 **Courses:**
 
 * Web Development.
 
 * Linux (Red Hat).
 
--💼 Open to collaboration and eager to learn from experienced developers. Let's connect and create something amazing together!
+- 💼 Open to collaboration and eager to learn from experienced developers. Let's connect and create something amazing together!
 
--📫 How to reach me sweathadeepi013@gmail.com
+- 📫 How to reach me sweathadeepi013@gmail.com
   
 
 <!---
