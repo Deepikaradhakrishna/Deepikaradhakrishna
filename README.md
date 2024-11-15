@@ -8,7 +8,7 @@ Hi there! **I'm (Deepika Radhakrishnan)**
 
 **🚀 Skills:**
 
-<br **Frontend:**
+ **Frontend:**
  - HTML
  - CSS
  - Bootstrap(CSS)
@@ -20,7 +20,7 @@ Hi there! **I'm (Deepika Radhakrishnan)**
 
 **Developer Tools:** 
 - Visual Studio Code
-
+<br
 - 📚 **Courses:**
 
 * Web Development.
